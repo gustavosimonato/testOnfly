@@ -56,6 +56,6 @@ cp .env.example .env
 ./vendor/bin/sail artisan queue:work
 ```
 
-8. Importe o arquivo `NewCorban.postman_collection.json` no Postman.
+8. Importe o arquivo `Test Onfly.postman_collection.json` no Postman.
 
-Sistema rodando em http://127.0.0.1:80
+Sistema rodando em http://127.0.0.1:80 e pronto para testes.
