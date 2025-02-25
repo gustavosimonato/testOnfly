@@ -26,16 +26,16 @@ git clone https://github.com/gustavosimonato/testOnfly.git
 cd testOnfly
 ```
 
-3. Instale as dependências do Composer:
-
-```
-composer install
-```
-
-4. Copie o arquivo de ambiente:
+3. Copie o arquivo de ambiente:
 
 ```
 cp .env.example .env
+```
+
+4. Instale as dependências do Composer:
+
+```
+composer install
 ```
 
 5. Inicie o ambiente Sail:
